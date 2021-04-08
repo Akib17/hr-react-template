@@ -1,7 +1,23 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import App from './app/App.jsx';
+
+import './assets/css/plugins/bootstrap.min.css'
+import './assets/css/plugins/animate.min.css'
+import './assets/css/plugins/fontawesome.css'
+import './assets/css/plugins/modal-video.min.css'
+import './assets/css/plugins/owl.carousel.css'
+import './assets/css/plugins/stellarnav.css'
+import './assets/css/plugins/slick.css'
+import './assets/css/typography.css'
+import './assets/css/buttons.css'
+import './assets/css/inner.css'
+import './assets/css/theme.css'
+import './assets/css/header.css'
+import './assets/css/footer.css'
+import './assets/css/responsive.css'
+
+import './assets/css/style.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
